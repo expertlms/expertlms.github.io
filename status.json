@@ -24,8 +24,8 @@
     {
       "id": "unique-identifier-3",
       "title": "Degradation in service",
-      "message": "This is another maintenance window, but we've planned it in the future!",
-      "maintenance": {
+      "message": "We expect CF to be really bad at this time.",
+      "degradation": {
         "start": "2026-07-02T12:30:00Z",
         "end": "2026-07-02T13:15:00Z"
       }
