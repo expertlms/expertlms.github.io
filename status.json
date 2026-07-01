@@ -30,7 +30,7 @@
       "title": "Degradation in service",
       "message": "We expect CF to be really bad at this time.",
       "degradation": {
-        "start": "2026-07-02T12:30:00Z",
+        "start": "2026-07-01T09:30:00Z",
         "end": "2026-07-02T13:15:00Z"
       }
     }
