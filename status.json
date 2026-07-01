@@ -2,6 +2,9 @@
   "maintenance": false,
   "degradation": false,
 
+  "title": "We'll be back soon",
+  "description": "The system is currently unavailable for maintenance. Please check back soon.",
+
   "notices": [
     {
       "id": "unique-identifier",
