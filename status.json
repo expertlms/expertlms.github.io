@@ -11,8 +11,8 @@
       "title": "Important maintenance",
       "message": "We will be applying **important** maintenance to the system.\n\n## Markdown support\nIt's important!",
       "maintenance": {
-        "start": "2026-07-04T07:19:44Z",
-        "end": "2026-07-04T09:30:44Z"
+        "start": "2026-07-08T07:19:44Z",
+        "end": "2026-07-08T09:30:44Z"
       }
     },
     {
@@ -30,8 +30,8 @@
       "title": "Degradation in service",
       "message": "We expect CF to be really bad at this time.",
       "degradation": {
-        "start": "2026-07-01T08:30:00Z",
-        "end": "2026-07-02T13:15:00Z"
+        "start": "2026-07-10T08:30:00Z",
+        "end": "2026-07-10T13:15:00Z"
       }
     }
   ]
