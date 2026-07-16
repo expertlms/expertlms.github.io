@@ -6,14 +6,6 @@
   "description": "The system is currently unavailable for maintenance. Please check back soon.",
 
   "notices": [
-    {
-      "id": "unique-identifier",
-      "title": "System Upgrade",
-      "message": "On **Tuesday, the 14th of July**, at **18:00 UTC**, we will be performing critical upgrades to your system. This upgrade requires some downtime to complete. As a result, no one will be able to access or use LMS functionality while this maintenance is ongoing.",
-      "maintenance": {
-        "start": "2026-07-14T12:00:00Z",
-        "end": "2026-07-14T12:30:00Z"
-      }
-    }
+     
   ]
 }
