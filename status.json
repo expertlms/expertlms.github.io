@@ -6,6 +6,14 @@
   "description": "The system is currently unavailable for maintenance. Please check back soon.",
 
   "notices": [
-     
+     {
+      "id": "unique-identifier-3",
+      "title": "Degradation in service",
+      "message": "We are currently completing maintenance on your LMS. You may experience a brief disruption in service during this period.",
+      "degradation": {
+        "start": "2026-09-22T08:00:00Z",
+        "end": "2026-09-22T08:45:00Z"
+      }
+    }
   ]
 }
