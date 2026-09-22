@@ -6,6 +6,14 @@
   "description": "The system is currently unavailable for maintenance. Please check back soon.",
 
   "notices": [
-     
+    {
+      "id": "38ee63d8-c055-4bec-8bb4-09440ae30a82",
+      "title": "Scheduled Maintenance",
+      "message": "We will be performing scheduled maintenance on your LMS on Sunday at 9:00 PM BST (UK time).\n\nYour LMS may be temporarily unavailable during the maintenance window. Any courses in progress at the start of the maintenance may be interrupted, so we recommend completing any active sessions beforehand.\n\nWe apologise for any inconvenience and appreciate your patience while we carry out this maintenance.",
+      "maintenance": {
+        "start": "2026-09-27T20:00:00Z",
+        "end": "2026-09-27T21:00:00Z"
+      }
+    }
   ]
 }
