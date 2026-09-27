@@ -12,7 +12,7 @@
       "message": "Some courses may not load while we finish up our scheduled maintenance.",
       "degradation": {
          "start": "2026-09-27T20:00:00Z",
-        "end": "2026-09-27T21:00:00Z"
+        "end": "2026-09-27T21:15:00Z"
       }
     }
   ]
