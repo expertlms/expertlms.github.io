@@ -6,14 +6,6 @@
   "description": "The system is currently unavailable for maintenance. Please check back soon.",
 
   "notices": [
-     {
-      "id": "unique-identifier-3",
-      "title": "Scheduled Maintenance",
-      "message": "Some courses may not load while we finish up our scheduled maintenance.",
-      "degradation": {
-         "start": "2026-09-27T20:00:00Z",
-        "end": "2026-09-27T21:20:00Z"
-      }
-    }
+     
   ]
 }
